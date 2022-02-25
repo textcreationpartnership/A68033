@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The epistle of Erasmus Roterodamus, sente vnto Conradus Pelicanus concerning his opinion of the blessed sacrament of Christes body and bloude.</title>
+            <author>Erasmus, Desiderius, d. 1536.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1554</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68033</idno>
+            <idno type="STC">STC 10491</idno>
+            <idno type="STC">ESTC S101686</idno>
+            <idno type="EEBO-CITATION">99837494</idno>
+            <idno type="PROQUEST">99837494</idno>
+            <idno type="VID">1819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68033)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 884:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The epistle of Erasmus Roterodamus, sente vnto Conradus Pelicanus concerning his opinion of the blessed sacrament of Christes body and bloude.</title>
+                  <author>Erasmus, Desiderius, d. 1536.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Iohannis Cawodi, typographi Reginæ Mariæ,</publisher>
+                  <pubPlace>Excusum Londini :</pubPlace>
+                  <date>Anno. 1554.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original title not traced.</note>
+                  <note>Signatures: A.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Running title reads: A godly treatise of the blessed sacrament.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:1819:1"/>
+            <pb facs="tcp:1819:1"/>
+            <p>
+               <figure>
+                  <figure>
+                     <figDesc>blazon or coat of arms</figDesc>
+                  </figure>
+                  <p>¶ The epiſtle of Eraſmus Rotero<g ref="char:EOLhyphen"/>damus, ſente vnto Conra<g ref="char:EOLhyphen"/>dus Pelicanus, concerning his opinion of the bleſ<g ref="char:EOLhyphen"/>ſed Sacrament of Chri<g ref="char:EOLhyphen"/>ſtes body and bloude.</p>
+                  <p>
+                     <hi>Excuſum Londinum aedibus <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ohannis Cawodi, Typogra<g ref="char:EOLunhyphen"/>phi Reginae Mariae.</hi>
+                  </p>
+                  <p>Anno. 1554.</p>
+                  <figure>
+                     <figDesc>royal figure</figDesc>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:1819:2"/>
+            <pb facs="tcp:1819:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He power of y<hi rend="sup">e</hi> go<g ref="char:EOLhyphen"/>ſpell doth not put away morall ver<g ref="char:EOLhyphen"/>tues. but maketh the<g ref="char:cmbAbbrStroke">̄</g> perfecte. And ye knowe well y<g ref="char:EOLhyphen"/>noughe, how farre it doth varye and differ, not only from vertue (I ſaye) but vtterly from all hu<g ref="char:EOLhyphen"/>manitie, to bewraye the priuite &amp; ſecrete counſel of frendſhip. For<g ref="char:EOLhyphen"/>aſmuch as we do curſe eue<g ref="char:cmbAbbrStroke">̄</g> them, which blabbe out thoſe thinges, that were ſpoken amonge fren<g ref="char:EOLhyphen"/>des, although their frendſhip be broken, &amp; they be fallen out. And they which be of a more gentle na<g ref="char:EOLunhyphen"/>ture, can not finde in their hearte to vpbrayd or obiecte vnto them whom they chiefly hate, any ſuch thing, as they whiche were theyr frendes afore, haue told them of truſte. I thoughte you to haue
+<pb facs="tcp:1819:3"/>bene one of this ſorte, y<hi rend="sup">t</hi> I mighte ſafely haue told you any ſecretes, nor I wold not haue chooſen any other vnto whom I might haue ſhewed the ſecretes of my conſci<g ref="char:EOLhyphen"/>ence. Wherfore I marueyl more, what hathe chaunced, y<hi rend="sup">t</hi> ye haue ſpredde abroade concerninge me thoſe thinges, which I neuer ne<g ref="char:EOLhyphen"/>ther ſayd nor thought. And y<hi rend="sup">t</hi> ye haue priuelye whiſpered into the eares of a certayne honeſt yonge man, y<hi rend="sup">t</hi> I was of the ſame mind, that ye were of, concerninge the Euchariſtie or the Sacrament of Chriſtes bodye &amp; bloude. Nowe ſhuld he haue caried with him in to his contrey this ſting of ſclau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>der, which ye layd vpon me, yf by chaunce he &amp; I had not fallen in co<g ref="char:cmbAbbrStroke">̄</g>munication of the ſame matter. And yet I can not tel, whether he be gone withoute all ſuſpicion of
+<pb facs="tcp:1819:3"/>me or not. Verely at y<hi rend="sup">e</hi> firſt, when I herd this yong ma<g ref="char:cmbAbbrStroke">̄</g>. I thought y<hi rend="sup">t</hi> ye did thinke none other thinge then ye were wont to profeſſe vn<g ref="char:EOLunhyphen"/>to me. Ye did condempne thoſe which durſt be ſo bold to profeſſe, that there was nothinge els but breade &amp; wine. Nor I did neuer thinke otherwiſe vpo<g ref="char:cmbAbbrStroke">̄</g> you before our laſt co<g ref="char:cmbAbbrStroke">̄</g>munication, wherin ye ſemed (as it were) cleane another man, &amp; one that was inſpired. &amp; ye declared your ful mind w<hi rend="sup">t</hi>oute any colour. And now ſeinge y<hi rend="sup">t</hi> ye profeſſe the ſame openlye, ye goo furth abroad, affirming that I &amp; you be both of one mind, yea and that ye do ſo in diuerſe places, y<hi rend="sup">t</hi> youre tale hath made a co<g ref="char:cmbAbbrStroke">̄</g>mon ru<g ref="char:EOLunhyphen"/>mor, wherof euerye one knoweth you to be the aucthor. And I do not doubte, but ye write the ſame in like maner to youre frendes.</p>
+            <p>
+               <pb facs="tcp:1819:4"/>
+Verely as for me, I did neuer a<g ref="char:EOLhyphen"/>gree w<hi rend="sup">t</hi> you throughly, no not in your firſt ſaying. For in y<hi rend="sup">t</hi> ye dyd ſaye, y<hi rend="sup">t</hi> in the Sacramente was y<hi rend="sup">e</hi> body of the lord, but how and af<g ref="char:EOLhyphen"/>ter what maner it was there, we ſhould co<g ref="char:cmbAbbrStroke">̄</g>mit y<hi rend="sup">t</hi> vnto god, whiche knoweth al thing: truly I added this more to y<hi rend="sup">t</hi> your ſayinge, y<hi rend="sup">t</hi> I thought it might be ſayd ſo more ſimply, &amp; diuerſe doubtes might ſo be auoyded, yf it were lefull for a chriſtian man to ſwarue from y<hi rend="sup">t</hi>, which was alreadye approued &amp; alowed both by the auctoritie of common councels, &amp; alſo by the a<g ref="char:EOLhyphen"/>greamente of al churches &amp; nati<g ref="char:EOLhyphen"/>ons ſo many ages paſt. But more ouer I alwayes denied y<hi rend="sup">t</hi> I could let that ſinke in my mind, ſpecial<g ref="char:EOLhyphen"/>lye when both the writinges of y<hi rend="sup">e</hi> Euangeliſtes, &amp; alſo of the Apo<g ref="char:EOLhyphen"/>ſtles do ſo plainly name the body
+<pb facs="tcp:1819:4"/>which is giuen, &amp; the blode which is ſhed. And ſeing y<hi rend="sup">t</hi> the ſame doth wo<g ref="char:cmbAbbrStroke">̄</g>derfully agree w<hi rend="sup">t</hi> the vnſpea<g ref="char:EOLhyphen"/>keable charity of god toward ma<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>kind, that he wold fede by an vn<g ref="char:EOLhyphen"/>ſpeakeable maner with the fleſhe &amp; blode of his ſonne, thoſe which he had redemed by the ſame body &amp; bloude. And that he wold com<g ref="char:EOLhyphen"/>fort the<g ref="char:cmbAbbrStroke">̄</g> by this ſecrete preſence of his ſo<g ref="char:cmbAbbrStroke">̄</g>ne as by a pledge, vnto ſuch time as he wold come agayn glo<g ref="char:EOLhyphen"/>rious &amp; manifeſt to al. Theſe thin<g ref="char:EOLunhyphen"/>ges wold make me more inclined to receaue the ſentence of the ca<g ref="char:EOLhyphen"/>tholike churche, yea yf nothinge wer determined nether of thone parte nor thother. Nowe what a madnes were it, yf I ſhuld not be affraid to pronunce, y<hi rend="sup">t</hi> there were nothing els but breade &amp; wine. I am wont to co<g ref="char:cmbAbbrStroke">̄</g>men frely of euerye thing with my frendes which be
+<pb facs="tcp:1819:5"/>learned (ſpecially when y<hi rend="sup">e</hi> weake be abſent) ſome time for ſerching for the the true the, ſome time to proue the<g ref="char:cmbAbbrStroke">̄</g>, ſome time for pleaſure, beinge in this be halfe peraduen<g ref="char:EOLhyphen"/>ture more ſimple, then nede wer. But I will knowledge my ſelfe worthy death, yf euer anye man hearde this worde of me, ether in earneſte, or in bourdes, y<hi rend="sup">t</hi> there is nothing els in y<hi rend="sup">e</hi> Sacrament, but bread &amp; wine, or that there is not there the very body &amp; bloude of y<hi rend="sup">e</hi> lord, which thing ſome now a da<g ref="char:EOLhyphen"/>yes by their bookes abroade doo hold &amp; defend. Yea I beſech chriſt not to fauor me, yf euer this ſay<g ref="char:EOLhyphen"/>inge or thoughte did tarye in my mind. For yf any of theſe flying or waueringe thoughtes did once touche my heart, I did eaſelye a<g ref="char:EOLhyphen"/>uoyde the<g ref="char:cmbAbbrStroke">̄</g>, conſidering the ineſti<g ref="char:EOLhyphen"/>mable loue &amp; charitie of God to<g ref="char:EOLhyphen"/>ward
+<pb facs="tcp:1819:5"/>vs, &amp; wayinge y<hi rend="sup">e</hi> wordes of holy ſcripture, whiche wordes of holy ſcripture did co<g ref="char:cmbAbbrStroke">̄</g>pell, yea Lu<g ref="char:EOLhyphen"/>ther him ſelfe (whome ye do ſette more by, &amp; prefer afore al ſcholes, al biſſhops, al men, of right opinio<g ref="char:cmbAbbrStroke">̄</g> &amp; councels) to profeſſe the ſame. which the vniuerſal church doth profeſſe, although he is wo<g ref="char:cmbAbbrStroke">̄</g>t glad<g ref="char:EOLhyphen"/>ly to diſſent fro<g ref="char:cmbAbbrStroke">̄</g> the ſame churche. I know how litle ye do regard y<hi rend="sup">e</hi> auctoritie of the councels. Vere<g ref="char:EOLhyphen"/>lye as for me, I do condempne no churche, ſpecially where it hath al churches agreing with it. Paule doth thinke, y<hi rend="sup">t</hi> an aungel is not to be hard, yf he preache an other go<g ref="char:EOLunhyphen"/>ſpel. The church hath perſuaded me to beleue the goſpell, &amp; by her inſtructio<g ref="char:cmbAbbrStroke">̄</g> alſo haue I learned to expounde the wordes of the go<g ref="char:EOLhyphen"/>pel. Hitherto haue I worſhipped in the Sacrament Chriſt, which
+<pb facs="tcp:1819:6"/>did ſuffre for me as al other chri<g ref="char:EOLhyphen"/>ſten men haue done, nor yet I ne<g ref="char:EOLhyphen"/>uer ſee anye thinge, wherefore I ought to go fro<g ref="char:cmbAbbrStroke">̄</g> this opinion. No mans reaſon ſhal be able to carye me away fro<g ref="char:cmbAbbrStroke">̄</g> the whole ſente<g ref="char:cmbAbbrStroke">̄</g>ce &amp; agreament of the chriſten world, for thoſe fiue wordes, In the begyn<g ref="char:EOLhyphen"/>ning God made heauen &amp; earth, be of more ſtrength with me, then all the ar<g ref="char:EOLhyphen"/>gumentes &amp; reaſons of Ariſtotle and all the other Philoſophers, wherby they do teache y<hi rend="sup">e</hi> worlde to be withoute beginninge. And nowe what do theſe men bringe, wherby I ſhuld be moued to pro<g ref="char:EOLunhyphen"/>feſſe this ſo vngodlye &amp; ſedicious ſentence or ſaying. Their reaſo<g ref="char:cmbAbbrStroke">̄</g>s be weake &amp; of no ſtreng the, ſuche as theſe. He once toke awaye his fleſhe, leſſe it ſhoulde be offenſiue. The Apoſtles did not wondre at it, nor did not worſhip it. We are
+<pb facs="tcp:1819:6"/>commaunded to be ſpirituall, as who ſaye the fleſhe thus giue<g ref="char:cmbAbbrStroke">̄</g> did hindre the ſpirite. The fleſhe is there, but not perceptible by any ſenſe, &amp; yet the ſame is a pledge of the loue of God toward vs, a co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>fort of our hope in god. The ſcri<g ref="char:EOLhyphen"/>pture doth make for vs, we haue in ſcripture, This is my body, which is gi<g ref="char:EOLhyphen"/>uen for you. This is my bloude, which is ſhedde for you. Where do they rede, this is not my body, but a token &amp; ſigne of my body? this is not my blode but a token &amp; ſigne of my blode? And whe<g ref="char:cmbAbbrStroke">̄</g> they haue greatly trou<g ref="char:EOLunhyphen"/>bled &amp; payned the<g ref="char:cmbAbbrStroke">̄</g> ſelfe, they can hardlye teache by other places, y<hi rend="sup">t</hi> the very name of the thing, ca<g ref="char:cmbAbbrStroke">̄</g> be taken for the ſigne &amp; token of the thing. And yet they can not alto<g ref="char:EOLhyphen"/>gether playnlye proue that. We ſay when we behold a paynted ta<g ref="char:EOLunhyphen"/>ble, this is Hector whiche ſlewe
+<pb facs="tcp:1819:7"/>Patroclus, yet euery ma<g ref="char:cmbAbbrStroke">̄</g> know<g ref="char:EOLhyphen"/>eth, y<hi rend="sup">t</hi> Hector him ſelf is not in the table, That may be true, whatſo<g ref="char:EOLhyphen"/>euer Chriſt ſayeth is. Now ſup<g ref="char:EOLhyphen"/>poſe, y<hi rend="sup">t</hi> they may proue this thing laſt aforeſayd, that is, y<hi rend="sup">t</hi> the thing may be taken for the ſigne or toke<g ref="char:cmbAbbrStroke">̄</g> therof, yet what ſtrength or effi<g ref="char:EOLhyphen"/>cacie hath this kind of reaſoning, theſe wordes may be take<g ref="char:cmbAbbrStroke">̄</g> thus, therfore they muſt be take<g ref="char:cmbAbbrStroke">̄</g> thus? To what purpoſe dothe it make for them to recite the ſayinges of ſo many old catholike auctours? howſoeuer they wreſte them, co<g ref="char:EOLhyphen"/>lour them, &amp; wrappe vp together al their ſayinges, yet bring they no place whiche manifeſtlye ſpea<g ref="char:EOLhyphen"/>keth, that there is not the bodye and bloude of the Lorde. They exhorte and moue menne vnto a ſpirituall communicatyng of y<hi rend="sup">e</hi> Lordes bodye &amp; bloode. What
+<pb facs="tcp:1819:7"/>meruell is it, yf y<hi rend="sup">e</hi> be commended which is rather to be eſtemed in y<hi rend="sup">t</hi> receauing of it in eyther kinde, For if it be not receaued ſpiritual<g ref="char:EOLunhyphen"/>ly, the carnall receauing onely w<hi rend="sup">t</hi> out y<hi rend="sup">u</hi> other bringeth da<g ref="char:cmbAbbrStroke">̄</g>nation. I praye you, what cauſe is here. wherfore I ſhuld forſake &amp; leaue y<hi rend="sup">t</hi> thing which y<hi rend="sup">e</hi> vniuerſal church hath vſed and taught ſo many a<g ref="char:EOLhyphen"/>ges. Ye know y<hi rend="sup">t</hi> Luther &amp; I do throughly agree in no kynde of doctrine, ſauing y<hi rend="sup">t</hi>, that he repro<g ref="char:EOLhyphen"/>ueth euer truly of y<hi rend="sup">e</hi> corrupt ma<g ref="char:EOLhyphen"/>ners of men. And now ſhal I de<g ref="char:EOLhyphen"/>parte from y<hi rend="sup">e</hi> communion of the catholyke churche, and fall to the opinion of Carolaſtadins, who alſo hath quaied from his owne doctryne &amp; teachyng? If I had reuealed vnto you, as to a frend, eyther aduoutrye or theft, how muche had it bene agaynſt al the
+<pb facs="tcp:1819:8"/>law of frendſhip to haue blabled it out, yea but to one man y<hi rend="sup">t</hi> thing whereby your fre<g ref="char:cmbAbbrStroke">̄</g>de might haue bene in daunger, Nowe ſeyng y<hi rend="sup">t</hi> ye ſprede abrode amonges al me<g ref="char:cmbAbbrStroke">̄</g> a crime moſt haynous of al other, whiche my tonge (thoughe it be fre &amp; lyberal) neuer vttered, nor which my minde neuer co<g ref="char:cmbAbbrStroke">̄</g>ceiued. What name muſt we giue y<hi rend="sup">t</hi> whi<g ref="char:EOLhyphen"/>che ye doo, being an Euangelical frende? do ye thynke to abuſe y<hi rend="sup">e</hi> aucthoritie of my name to per<g ref="char:EOLhyphen"/>ſuade your late begon beleue? I pray you in chriſte, is this to be a folower of the goſpel to ſteyne ſo wicked &amp; cruell a dede agaynſt a fre<g ref="char:cmbAbbrStroke">̄</g>d, wherby ye might entice mo into a new ſect, as though there were to few new ſects? If y<hi rend="sup">t</hi> opi<g ref="char:EOLhyphen"/>nyon be godlye whiche you doo affirme, haue ye no other means wherby ye may perſuade it, but
+<pb facs="tcp:1819:8"/>by makyng the mooſte falſe lye vpon Eraſmus, ſayng, y<hi rend="sup">t</hi> he and you be both of one minde. And if my authoritie be ſo greatly eſte<g ref="char:EOLhyphen"/>med amonges you, why can it do nothing in ſo mani things, where in I diſſe<g ref="char:cmbAbbrStroke">̄</g>t fro<g ref="char:cmbAbbrStroke">̄</g> you. If your minde doo wauer and doubte (as ye be wont to ſaye) becauſe that ye re<g ref="char:EOLhyphen"/>gard nothing at al y<hi rend="sup">e</hi> aucthoritie of the byſhoppes &amp; councels, yet hytherto my mynde hath bene ſtayed by the co<g ref="char:cmbAbbrStroke">̄</g>ſent of y<hi rend="sup">e</hi> vniuer<g ref="char:EOLhyphen"/>ſall churche. If you be perſuaded y<hi rend="sup">t</hi> ther is nothing els in y<hi rend="sup">e</hi> Sacra<g ref="char:EOLhyphen"/>ment but bread and wyne, I had rather be rent in ſondre euery parte fro<g ref="char:cmbAbbrStroke">̄</g> other, then to profeſſe y<hi rend="sup">e</hi> ſame that ye doo profeſſe. And I had leuer ſuffre what ſoeuer it were, then to commyt ſuch an a<g ref="char:EOLhyphen"/>bomynable cryme agaynſt myne owne conſcience, &amp; ſo to departe
+<pb facs="tcp:1819:9"/>oute of this lyfe. I doo not here dilate and ſet furthe with many wordes y<hi rend="sup">e</hi> moſt rightuous cauſe of expoſtulation, y<hi rend="sup">e</hi> matter it ſelfe hath trouble &amp; co<g ref="char:cmbAbbrStroke">̄</g>tentio<g ref="char:cmbAbbrStroke">̄</g> ynoughe in it. If ye haue any cryme of the ſpirite of y<hi rend="sup">e</hi> Goſpell, ye will heale agayne al thoſe, that ye through theſe moſt falſe feyned tales haue infected. I am content and can ſuffre, y<hi rend="sup">t</hi> ye blabbe furth amonges al me<g ref="char:cmbAbbrStroke">̄</g>, whatſoeuer I haue ſpoken in our familiar co<g ref="char:cmbAbbrStroke">̄</g>municatio<g ref="char:cmbAbbrStroke">̄</g> (yea althoughe I were merye wyth drink) ether in bourdes or erneſt But truly I can not ſuffre y<hi rend="sup">t</hi> ye make me ether Author of this doctryne, or yet fellow with you in y<hi rend="sup">t</hi>, which I neuer nether ſpake nor thought, ſo I pray God that I neuer be ſeparated from Chriſte. Amen.</p>
+            <closer>
+               <dateline>At Baſyll. <date>Anno. 1.5.2.6.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="treatise_on_the_Eucharist">
+            <pb facs="tcp:1819:9"/>
+            <head>A plaine and godlye treatiſe, concernynge the Maſſe &amp; the bleſſed Sacrament of the Aulter, for the inſtruc<g ref="char:EOLunhyphen"/>cion of the ſymple and vnlerned people.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He verye holye newe ſa<g ref="char:EOLhyphen"/>crifice of the new teſtament whiche the Church of Chryſte hath euer had in vſe &amp; celebrate euen from the begynninge, is of the olde holy writes called (as it is at this day tho roughoute the Catholike Church) by the Hebrew name Miſſa,<note place="margin">Ambro<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> lib. v. e<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſtolaru<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> epiſtol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cxxiij. Auguſt<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſermo. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> te<g ref="char:cmbAbbrStroke">̄</g>po. cc<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+               </note> as it appeare the righte euidently by S. Ambroſe in hys. v. booke of Epiſtles, and the .xxxiii. Epi<g ref="char:EOLhyphen"/>ſtle of the ſame booke and by. S Auſtine alſo in his .cc. li. ſermo<g ref="char:cmbAbbrStroke">̄</g> De tempore. And thys worde. Miſſa hath his originall of the Hebrew worde (Maſſa) whiche ſigni<g ref="char:EOLhyphen"/>fiethe voluntarye or free oblacion or of<g ref="char:EOLhyphen"/>ferynge whiche is offered vppe wyth the hande: or elles (as ſome other do thinke) of the Hebrewe woorde Maſas, why<g ref="char:EOLhyphen"/>che ſygnyfyeth to eleuate or lyfte vppe: and althoughe the olde holye fathers dyd</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
